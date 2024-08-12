@@ -1,0 +1,5 @@
+{
+  "jdbsUrl" : "jdbc:mysql://127.0.0.1:3306/goit_enterprise",
+  "jdbsName" : "root",
+  "jdbsPassword" : "Dbunakns123"
+}
