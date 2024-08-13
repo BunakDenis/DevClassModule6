@@ -14,6 +14,7 @@ public class Prefs {
     public static final String DB_JDBS_CONNECTION_USER_NAME = "jdbsName";
     public static final String DB_JDBS_CONNECTION_PASSWORD = "jdbsPassword";
     public static final String DEFAULT_PREFS_FILE_NAME = "D:\\Java\\IDEProjects\\Developer\\DevClassModule6\\src\\prefs.json";
+    public static final String INIT_DB_SQL_FILE_PATH = "initDbFilePath";
     private Map<String, Object> prefs = new HashMap<>();
 
     public Prefs() {
@@ -41,7 +42,7 @@ public class Prefs {
         return getPref(key).toString();
     }
 
-    public Object getPref(String key) {
+    private Object getPref(String key) {
         return prefs.get(key);
     }
 }

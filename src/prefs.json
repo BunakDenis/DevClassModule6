@@ -1,5 +1,6 @@
 {
   "jdbsUrl" : "jdbc:mysql://127.0.0.1:3306/goit_enterprise",
   "jdbsName" : "root",
-  "jdbsPassword" : "Dbunakns123"
+  "jdbsPassword" : "Dbunakns123",
+  "initDbFilePath" : "D:\\Java\\IDEProjects\\Developer\\DevClassModule6\\initDB.sql"
 }

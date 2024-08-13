@@ -1,11 +1,14 @@
 
-€
-java:S1854">Remove this useless assignment to local variable "connection".(÷þ•x8•‚ûµ”2J$123e172b-6c02-418d-8485-9c019571ebdb
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(Š¤”Öþÿÿÿÿ8ÔüÞ”2J$4c4508a5-76ef-4238-bedf-96744d1089c0
+~	java:S125 "<This block of commented-out lines of code should be removed.(†Ö±›8ÔüÞ”2J$f89a5eff-4812-4efb-9c3e-db1ddd50f0c6
+ƒ	java:S125="<This block of commented-out lines of code should be removed.(®Û˜Ëùÿÿÿÿ8·ùüÞ”2J$d986c9c4-3388-4cd0-bff1-45a04780680c
+s
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8Ï¾ýÞ”2J$e9ce7152-eadf-4797-8dda-165b3b0cbd4a
 q
-java:S1481"/Remove this unused "connection" local variable.(÷þ•x8™‚ûµ”2J$d5b3a143-2603-466b-b8b2-3e0663aee70a
-P
-java:S1128"3Remove this unused import 'java.sql.DriverManager'.(“£°8•ì“¼”2
-O
-java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8•ì“¼”2
-L
-java:S1128"/Remove this unused import 'java.sql.Statement'.(ÏÖÔø8•ì“¼”2
+java:S1128"/Remove this unused import 'java.sql.ResultSet'.(ˆóÚw8Ï¾ýÞ”2J$ef5c9102-dffd-401c-a913-6f6dd7ecff38
+u
+java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8Ð¾ýÞ”2J$ded5180b-9d1a-4287-85ec-73d5ff2e04c3
+r
+java:S1128	"/Remove this unused import 'java.sql.Statement'.(ÏÖÔø8Ñ¾ýÞ”2J$e4bf6779-33e7-4eff-b354-5358feafc4b9
+u
+java:S1128"-Remove this unused import 'java.util.Locale'.(åð×±ûÿÿÿÿ8Ò¾ýÞ”2J$1e8a2606-249a-4981-9596-85129d3f166b
