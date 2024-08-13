@@ -60,7 +60,5 @@ public class App {
         humanService.createNewHuman("John Call", LocalDate.now().minusMonths(1));
         //humanService.printHumanIds();
         humanService.printHumanInfo(2);
-
-
     }
 }
