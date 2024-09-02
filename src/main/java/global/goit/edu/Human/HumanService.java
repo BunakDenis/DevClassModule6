@@ -32,17 +32,6 @@ public class HumanService {
 
     }
 
-    public void createNewHuman(String name, LocalDate birthday) {
-        String insertSql = String.format(
-                "INSERT INTO human (name, birthday) VALUES ('%s', '%s')",
-                name,
-                birthday.toString()
-        );
-
-        storage.executeUpdate(insertSql);
-
-    }
-
     public void printHumanInfo(long id) {
         try (Statement st = storage.getConnection().createStatement()) {
 

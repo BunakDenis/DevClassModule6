@@ -10,9 +10,9 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Prefs {
-    public static final String DB_JDBS_CONNECTION_URL = "jdbsUrl";
-    public static final String DB_JDBS_CONNECTION_USER_NAME = "jdbsName";
-    public static final String DB_JDBS_CONNECTION_PASSWORD = "jdbsPassword";
+    public static final String DB_JDBC_CONNECTION_URL = "jdbcUrl";
+    public static final String DB_JDBC_CONNECTION_USER_NAME = "jdbcName";
+    public static final String DB_JDBC_CONNECTION_PASSWORD = "jdbcPassword";
     public static final String DEFAULT_PREFS_FILE_NAME = "D:\\Java\\IDEProjects\\Developer\\DevClassModule6\\src\\prefs.json";
     public static final String INIT_DB_SQL_FILE_PATH = "initDbFilePath";
     private Map<String, Object> prefs = new HashMap<>();

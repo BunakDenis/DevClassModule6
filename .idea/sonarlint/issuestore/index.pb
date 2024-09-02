@@ -35,8 +35,6 @@ initDb.sql,6\5\657b55d8c925329309fce08c49303b9a6fd007d6
 
 initDB.sql,9\3\93671382966e65920f4cab2b927bf0d4dddb9056
 n
->src/main/java/global/goit/edu/feature/DatabeseInitService.java,3\e\3e1f789251560cd621c242c018f689c2d13d1334
-n
 >src/main/java/global/goit/edu/feature/DatabaseInitService.java,d\4\d4ef6a7e95c30ae35ed7d7b6dabcf0b181196d6c
 e
 5src/main/java/global/goit/edu/Human/HumanService.java,d\7\d7bb2d08595eb66f7800a49e9dd2130bd17867f2
@@ -52,8 +50,6 @@ w
 G.idea/sonarlint/issuestore/b/f/bfb735e1f717619d8ff8a9f6cbdffa04d1b472e8,7\d\7dbd4844c8b4ba9e7222df287c207c97d67fbadf
 w
 G.idea/sonarlint/issuestore/0/9/09771e8a4027069f58d3c47f6533b2579b692993,f\2\f2cff12670979823bf5c71af10f36387953bba3b
-Å
-Q.idea/sonarlint/securityhotspotstore/3/e/3e1f789251560cd621c242c018f689c2d13d1334,b\4\b4a1c5a3207197955f451ed3147baac84e405f34
 w
 G.idea/sonarlint/issuestore/1/b/1bf8254b80bc4e1114cd051139167f995b86d5fc,1\e\1e59d43fbb050077cb09a877646159b4d9b09c46
 w
@@ -88,3 +84,7 @@ w
 G.idea/sonarlint/issuestore/d/b/db9af525fb00071073854abc34f2db664bcd7189,f\0\f04aca7e510e6689f54b9cf569531947d2df0d04
 w
 G.idea/sonarlint/issuestore/6/5/657b55d8c925329309fce08c49303b9a6fd007d6,9\0\900b710f6f718680a2ec440acd19dff6c1191c26
+g
+7src/main/java/global/goit/edu/Human/HumanServiceV2.java,3\b\3b1a0c1827be6184f76cdbf31cac5170deb54d67
+f
+6src/main/java/global/goit/edu/Human/HumanGenerate.java,0\9\09e3a19c8e0d8604717e2106b9b124c71abb1186

@@ -18,9 +18,9 @@ public class Storage {
 
             Prefs prefs = new Prefs();
 
-            connection = DriverManager.getConnection(prefs.getString(Prefs.DB_JDBS_CONNECTION_URL),
-                    prefs.getString(Prefs.DB_JDBS_CONNECTION_USER_NAME),
-                    prefs.getString(Prefs.DB_JDBS_CONNECTION_PASSWORD));
+            connection = DriverManager.getConnection(prefs.getString(Prefs.DB_JDBC_CONNECTION_URL),
+                    prefs.getString(Prefs.DB_JDBC_CONNECTION_USER_NAME),
+                    prefs.getString(Prefs.DB_JDBC_CONNECTION_PASSWORD));
 
         } catch (SQLException e) {
             e.printStackTrace();

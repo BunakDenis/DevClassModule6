@@ -1,14 +1,27 @@
 
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(Š¤”Öşÿÿÿÿ8ÔüŞ”2J$44d1e172-1721-49f1-a0d6-acc9a9a54622
-~	java:S125 "<This block of commented-out lines of code should be removed.(†Ö±›8ÔüŞ”2J$6aa550cd-be9d-49d2-acae-cae72e1873cb
-ƒ	java:S125="<This block of commented-out lines of code should be removed.(®Û˜Ëùÿÿÿÿ8·ùüŞ”2J$5889c4a7-e695-42eb-ab39-177243bacec3
+Š
+java:S1854B"BRemove this useless assignment to local variable "humanServiceV2".(Ñş“‹üÿÿÿÿ8Š™››2J$4f143af5-2aa8-445e-931e-e749ea03cfa5
+}	java:S125<"<This block of commented-out lines of code should be removed.(’ÂĞg8²ğ§÷˜2J$e527e546-63d8-4f5e-9f0c-cab8abf76348
+{
+java:S1481B"3Remove this unused "humanServiceV2" local variable.(Ñş“‹üÿÿÿÿ8™››2J$e7258e84-edc5-4854-b97b-0480e84f0666
+ƒ	java:S125D"<This block of commented-out lines of code should be removed.(™‘†¨øÿÿÿÿ8Ô‚˜››2J$82d463df-049c-4615-87bd-621fb01b58fc
+~	java:S125O"<This block of commented-out lines of code should be removed.(µâÄ“8™››2J$60a092cf-a6c0-468a-8a38-5bffe225fc76
+~	java:S125Q"<This block of commented-out lines of code should be removed.(­•Íã8³ğ§÷˜2J$3afc3e87-f72d-49bf-ae22-882e7722bfcd
+}	java:S125S"<This block of commented-out lines of code should be removed.(‚¬¸P8³ğ§÷˜2J$35457eb3-b729-4f7c-b0ec-7d1b8910df7d
+ƒ	java:S125V"<This block of commented-out lines of code should be removed.(¼ÊüÒúÿÿÿÿ8´ğ§÷˜2J$3950f869-ad1d-4374-b9a6-6fb06cddaa0a
+~	java:S125z"<This block of commented-out lines of code should be removed.(€íà˜8Ş‘°÷˜2J$b41b05b4-3e18-41a6-b5d3-3375da0d70d2
+ˆ
+java:S1128"@Remove this unused import 'global.goit.edu.Human.HumanGenerate'.(ëØµˆşÿÿÿÿ8Ö‚˜››2J$35fbb666-62ee-4a31-8e1c-4ce1994e6070
+‡
+java:S1128"?Remove this unused import 'global.goit.edu.Human.HumanService'.(©Ãœ¨ıÿÿÿÿ8×‚˜››2J$fe6c2041-1505-4940-a77c-ee45dc4b9116
 s
-java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8Ï¾ıŞ”2J$5ff89f25-600c-4ab7-99fc-c53e2434cb70
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8×‚˜››2J$bbc22f78-f6ac-459c-8fdc-bdc4ed838b11
 q
-java:S1128"/Remove this unused import 'java.sql.ResultSet'.(ˆóÚw8Ï¾ıŞ”2J$c5996060-dcd4-4ae5-9850-913dea6cf9e3
+java:S1128	"/Remove this unused import 'java.sql.ResultSet'.(ˆóÚw8Ø‚˜››2J$87b62f40-1842-4f4a-a765-d8e59bf425b6
 u
-java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8Ğ¾ıŞ”2J$86d2cd40-fb48-4077-a5f9-886e5a274aa0
+java:S1128
+"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8Ù‚˜››2J$5193200a-67cb-4485-9040-7bc0639c93d0
 r
-java:S1128	"/Remove this unused import 'java.sql.Statement'.(ÏÖÔø8Ñ¾ıŞ”2J$c5583b64-7dff-4f55-9751-ab82521bcb70
-u
-java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ8Ò¾ıŞ”2J$acd7b1c0-bcdc-4474-8baa-1ee86febf293
+java:S1128"/Remove this unused import 'java.sql.Statement'.(ÏÖÔø8Ù‚˜››2J$755d0ff6-c888-4b74-89e1-10159a9653a3
+i
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ8Ú‚˜››2J$bf5bff44-c8e6-484c-9ae9-65c2d2c218ec
