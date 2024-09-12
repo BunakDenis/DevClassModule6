@@ -9,8 +9,6 @@ f
 6src/main/java/global/goit/edu/feature/prefs/Prefs.java,f\9\f959751ce09202ab5a6ce483e84a646c8f805fb4
 >
 src/prefs.json,7\e\7ea347b754295e7565c4131a2e11e2acb8c7d066
-Z
-*src/test/java/global/goit/edu/AppTest.java,b\f\bfb735e1f717619d8ff8a9f6cbdffa04d1b472e8
 Å
 Q.idea/sonarlint/securityhotspotstore/7/e/7ea347b754295e7565c4131a2e11e2acb8c7d066,1\b\1bf8254b80bc4e1114cd051139167f995b86d5fc
 :
@@ -88,3 +86,9 @@ g
 7src/main/java/global/goit/edu/Human/HumanServiceV2.java,3\b\3b1a0c1827be6184f76cdbf31cac5170deb54d67
 f
 6src/main/java/global/goit/edu/Human/HumanGenerate.java,0\9\09e3a19c8e0d8604717e2106b9b124c71abb1186
+^
+.src/main/java/global/goit/edu/Human/Human.java,b\f\bfda8b2f01ec2e09093e97aa6da5b2c22db1f0e4
+h
+8src/main/java/global/goit/edu/Human/HumanDaoService.java,7\8\784490a326c212f779cbcba1f5e1f63c5a4a3da0
+g
+7src/test/java/global/goit/edu/HumanDaoServiceTests.java,1\3\13d3d883e5b20768bc43c998ac75d81934d1db94

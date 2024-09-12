@@ -6,17 +6,15 @@ import org.flywaydb.core.Flyway;
 
 public class DatabaseInitService {
 
-    public void initDb (Storage storage) {
+    public void initDb (String connectionUrl) {
 
-        String connectionUrl = new Prefs().getString(Prefs.DB_JDBC_CONNECTION_URL);
-        String dbUserName = new Prefs().getString(Prefs.DB_JDBC_CONNECTION_USER_NAME);
-        String dbPassword = new Prefs().getString(Prefs.DB_JDBC_CONNECTION_PASSWORD);
+
         try {
             Flyway flyway = Flyway
                     .configure()
-                    .baselineOnMigrate(true)
-                    .baselineVersion("0")
-                    .dataSource(connectionUrl, dbUserName, dbPassword)
+/*                    .baselineOnMigrate(true)
+                    .baselineVersion("0")*/
+                    .dataSource(connectionUrl, null, null)
                     .load();
 
             flyway.migrate();

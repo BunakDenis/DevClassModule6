@@ -1,16 +1,14 @@
 package global.goit.edu;
 
+import global.goit.edu.Human.Human;
 import global.goit.edu.Human.HumanGenerate;
 import global.goit.edu.Human.HumanService;
 import global.goit.edu.Human.HumanServiceV2;
 import global.goit.edu.feature.DatabaseInitService;
+import global.goit.edu.feature.prefs.Prefs;
 
-import java.sql.Connection;
-import java.sql.ResultSet;
-import java.sql.SQLException;
-import java.sql.Statement;
 import java.time.LocalDate;
-import java.util.*;
+import java.util.Locale;
 
 public class App {
 
@@ -19,7 +17,7 @@ public class App {
         DatabaseInitService dbInitServ = new DatabaseInitService();
         Storage storage = Storage.getInstance();
 
-        dbInitServ.initDb(storage);
+        dbInitServ.initDb(new Prefs().getString(Prefs.DB_JDBC_CONNECTION_URL));
 
 
         String insertSql = String.format(
@@ -30,6 +28,8 @@ public class App {
         System.out.println(insertSql);
 
         storage.executeUpdate(insertSql);
+
+        Human human = new Human();
 
 /*        String selectSql = "SELECT * FROM human where id=1";
 

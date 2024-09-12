@@ -1,27 +1,23 @@
 
 Š
-java:S1854B"BRemove this useless assignment to local variable "humanServiceV2".(Ñþ“‹üÿÿÿÿ8Šž™››2J$4f143af5-2aa8-445e-931e-e749ea03cfa5
-}	java:S125<"<This block of commented-out lines of code should be removed.(’ÂÐg8²ð§÷˜2J$e527e546-63d8-4f5e-9f0c-cab8abf76348
+java:S1854B"BRemove this useless assignment to local variable "humanServiceV2".(Ñþ“‹üÿÿÿÿ8ùç™ž2J$2c8c86fd-4878-4427-a732-530fb3c79d31
+|
+java:S1854 "9Remove this useless assignment to local variable "human".(Î…íõ8ùç™ž2J$aba15dc8-e309-4397-ae7d-86f6ddf46d88
+m
+java:S1481 "*Remove this unused "human" local variable.(Î…íõ8è™ž2J$32f5c2f3-f0f8-4acd-a80b-3396b60bdce2
+~	java:S125""<This block of commented-out lines of code should be removed.(†Ö±›8‚è™ž2J$22836842-8d84-4f4d-a806-6475f044837a
+}	java:S125<"<This block of commented-out lines of code should be removed.(’ÂÐg8ƒè™ž2J$9b2281de-cbc3-4986-a2fc-6ab567e019ff
 {
-java:S1481B"3Remove this unused "humanServiceV2" local variable.(Ñþ“‹üÿÿÿÿ8ž™››2J$e7258e84-edc5-4854-b97b-0480e84f0666
-ƒ	java:S125D"<This block of commented-out lines of code should be removed.(™‘†¨øÿÿÿÿ8Ô‚˜››2J$82d463df-049c-4615-87bd-621fb01b58fc
-~	java:S125O"<This block of commented-out lines of code should be removed.(µâÄ“8ž™››2J$60a092cf-a6c0-468a-8a38-5bffe225fc76
-~	java:S125Q"<This block of commented-out lines of code should be removed.(­•Íã8³ð§÷˜2J$3afc3e87-f72d-49bf-ae22-882e7722bfcd
-}	java:S125S"<This block of commented-out lines of code should be removed.(‚¬¸P8³ð§÷˜2J$35457eb3-b729-4f7c-b0ec-7d1b8910df7d
-ƒ	java:S125V"<This block of commented-out lines of code should be removed.(¼ÊüÒúÿÿÿÿ8´ð§÷˜2J$3950f869-ad1d-4374-b9a6-6fb06cddaa0a
-~	java:S125z"<This block of commented-out lines of code should be removed.(€íà˜8Þ‘°÷˜2J$b41b05b4-3e18-41a6-b5d3-3375da0d70d2
-ˆ
-java:S1128"@Remove this unused import 'global.goit.edu.Human.HumanGenerate'.(ëØµˆþÿÿÿÿ8Ö‚˜››2J$35fbb666-62ee-4a31-8e1c-4ce1994e6070
-‡
-java:S1128"?Remove this unused import 'global.goit.edu.Human.HumanService'.(©Ãœ¨ýÿÿÿÿ8×‚˜››2J$fe6c2041-1505-4940-a77c-ee45dc4b9116
-s
-java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8×‚˜››2J$bbc22f78-f6ac-459c-8fdc-bdc4ed838b11
-q
-java:S1128	"/Remove this unused import 'java.sql.ResultSet'.(ˆóÚw8Ø‚˜››2J$87b62f40-1842-4f4a-a765-d8e59bf425b6
-u
-java:S1128
-"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8Ù‚˜››2J$5193200a-67cb-4485-9040-7bc0639c93d0
-r
-java:S1128"/Remove this unused import 'java.sql.Statement'.(ÏÖÔø8Ù‚˜››2J$755d0ff6-c888-4b74-89e1-10159a9653a3
-i
-java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ8Ú‚˜››2J$bf5bff44-c8e6-484c-9ae9-65c2d2c218ec
+java:S1481B"3Remove this unused "humanServiceV2" local variable.(Ñþ“‹üÿÿÿÿ8„è™ž2J$2f87ae78-87aa-43f6-83fd-91fb0c505265
+ƒ	java:S125D"<This block of commented-out lines of code should be removed.(™‘†¨øÿÿÿÿ8…è™ž2J$f813290b-76b3-4bbf-bef3-34d27f5a7407
+~	java:S125O"<This block of commented-out lines of code should be removed.(µâÄ“8…è™ž2J$a11da0d0-5f91-48a4-942f-94bb3323ff21
+~	java:S125Q"<This block of commented-out lines of code should be removed.(­•Íã8…è™ž2J$b32bcd8d-7236-4388-b713-459f14c2eebb
+}	java:S125S"<This block of commented-out lines of code should be removed.(‚¬¸P8…è™ž2J$113c4395-bc82-472d-8cea-e499904e8ce8
+ƒ	java:S125V"<This block of commented-out lines of code should be removed.(¼ÊüÒúÿÿÿÿ8†è™ž2J$24ecd798-c499-4ba0-bb2e-6ce6ecf66983
+~	java:S125z"<This block of commented-out lines of code should be removed.(€íà˜8†è™ž2J$8963c094-31ad-473d-979f-f1a6d34a4ec0
+b
+java:S1128"@Remove this unused import 'global.goit.edu.Human.HumanGenerate'.(ëØµˆþÿÿÿÿ8àÞ©µž2
+a
+java:S1128"?Remove this unused import 'global.goit.edu.Human.HumanService'.(©Ãœ¨ýÿÿÿÿ8áÞ©µž2
+O
+java:S1128"-Remove this unused import 'java.util.Locale'.(åð×±ûÿÿÿÿ8áÞ©µž2
